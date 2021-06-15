@@ -1,0 +1,1 @@
+key.txt git add .gitignore git commit -m 提交时忽略key.txt
