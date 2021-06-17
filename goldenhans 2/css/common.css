@@ -53,7 +53,7 @@
 }
 
 .banner_hans img {
-    height: 600px !important;
+    height: 577px !important;
     overflow: hidden;
 }
 
@@ -237,9 +237,9 @@ p {
     .navbar-right {
         margin-right: 0;
     }
-    .banner_hans img {
+    /* .banner_hans img {
         height: 470px !important;
-    }
+    } */
     .navbarCenter {
         margin-left: 40px;
     }
@@ -262,6 +262,9 @@ p {
     .max_contact_img_row {
         margin-right: 20px;
     }
+    .banner_hans img {
+        height: 470px !important;
+    }
     .changeLanguage {
         display: none;
     }
@@ -278,7 +281,7 @@ p {
         background: rgba(0, 0, 0, 0.7);
     }
     .banner_hans img {
-        height: 186px !important;
+        height: 204px !important;
     }
     .bigBanner {
         /* margin-top: 52px; */
